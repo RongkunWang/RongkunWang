@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RongkunWang
 - 👀 I’m interested in skiing
 - 🌱 I’m currently learning managing Physics Analysis
-- 💞️ I’m looking to collaborate on Machine Learning stuff.
+- 💞️ I’m open for work.
 - 📫 How to reach me rongkun.wang@cern.ch
 
 <!---
